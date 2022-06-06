@@ -896,61 +896,11 @@ color: #50868a;
   box-sizing: border-box;
   border: 1px solid #B7DCF4;
   background-color: #dfedf5;
-
 }
-.goods{
-  display: flex;
-  margin-top: 10px;
-  max-width: 130px;
-  min-height: 130px;
-  margin: 0px auto;
-}
-.goods{
-  -webkit-box-shadow: inset 10px 12px 0px 0px #000000, inset -12px -10px 0px 0px #DFEDF5; 
-box-shadow: inset 10px 12px 0px 0px #DFEDF5, inset -12px -10px 0px 0px #DFEDF5;
-}
-.price{
-  color: #444545;
-  font-weight: bold;
-  font-size: 8px;
-  font-family: arial;
-}
-.currency, .total{
-  color: #4c9242;
-  font-weight: bold;
-  font-size: 8px;
-  font-family: arial;
-  margin-left: 5px;
-  display: inline-block;
-}
-.infoabout{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-}
-.cod{
-   display: inline-block;
-  text-transform: uppercase;
-   color: #444545;
-  font-weight: bold;
-  font-size: 8px;
-  font-family: arial;
-}
-.kode{
-    display: inline-block;
-  text-transform: uppercase;
-   color: #676767;
-  font-weight: bold;
-  font-size: 8px;
-  font-family: arial;
-}
-.pricer{
-  display: flex;
-}
-.articul{
-  display: flex;
-}
+.photo{
+  width: 90%;
+  height:90%;
+ }
 }
 @media only screen and (max-width: 215px){
   .logo{
