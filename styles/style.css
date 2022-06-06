@@ -261,12 +261,12 @@ box-sizing: border-box;
 .catalog{
   border-top: 1px dashed #B7DCF4;
   display: flex;
-
    background-color: #fff;
    flex-wrap: wrap;
    flex-direction: row;
    justify-content: space-between;
    padding-top: 26px;
+  padding-bottom:0px;
 }
 .leftpart{
   width: 63.47%;
